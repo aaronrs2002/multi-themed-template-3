@@ -1,4 +1,4 @@
-# multi-themed-template-3
+# multi-themed-template-4
 One web app multi-themed template hosting multiple clients with no database
 
 
